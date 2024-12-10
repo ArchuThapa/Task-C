@@ -1,6 +1,6 @@
-# Task-C
 
-# Task-C: Interactive Form Builder
+# Task-C
+# Interactive Form Builder
 
 ## Project Overview
 Task-C is an interactive form builder application built with React. It allows users to drag and drop various form components (such as text inputs, select fields, radio buttons, etc.) to create custom forms. The app also supports form validation, and dynamic form generation with a JSON schema.
@@ -83,5 +83,3 @@ Accessibility Improvements: Ensure that the form builder and generated forms are
 
 Conclusion
 Task-C is a flexible and dynamic form builder that empowers users to create and customize forms with ease. While the current version is focused on basic functionality like drag-and-drop and simple validation, there are many exciting features planned for future versions to enhance the user experience and extend the platform's capabilities.
-
-v
