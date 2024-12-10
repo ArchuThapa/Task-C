@@ -1,0 +1,21 @@
+/* src/App.css */
+.form-builder {
+  padding: 20px;
+  border: 1px dashed #ccc;
+  width: 300px;
+  margin: 10px;
+}
+
+.form-preview {
+  margin-top: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.input {
+  padding: 10px;
+  width: 100%;
+  margin-top: 5px;
+}
